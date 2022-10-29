@@ -5,6 +5,12 @@ let square = {
   c1: '', c2:'', c3: ''
 };
 
+let player = '';
+let warning = '';
+let playing = '';
+
+reset();
+
 //Events
   document.querySelector(".reset").addEventListener("click", reset);
 
@@ -13,4 +19,8 @@ function reset(){
   warning = '';
   let random = Math.floor(Math.random() * 2);
   player = (random === 0) ? "x" : "o";
+
+  for(let i in square){
+    square[i] = '';
+  }
 }
