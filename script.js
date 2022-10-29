@@ -31,9 +31,13 @@ function reset(){
 }
 
 function renderSquare(){
-
+  for(let i in square){
+    let item = document.querySelector(`div[data-item=${i}]`);
+    item.innerHTML = square[i];
+  }
 }
 
 function renderInfor(){
-  
+  document.querySelector('.vez').innerHTML = player;
+  document.querySelector('.resultado').innerHTML = warning;
 }
