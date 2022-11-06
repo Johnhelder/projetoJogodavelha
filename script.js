@@ -18,6 +18,14 @@ reset();
   });
 
 //Functions
+function itemClick(){
+  let item = event.target.getAttribute("data-item");
+  if(square[item] === ""){
+    square[item] = player;
+    renderSquare();
+  }
+}
+
 function reset(){
   warning = '';
   let random = Math.floor(Math.random() * 2);
