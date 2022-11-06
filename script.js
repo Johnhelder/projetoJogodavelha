@@ -13,6 +13,9 @@ reset();
 
 //Events
   document.querySelector(".reset").addEventListener("click", reset);
+  document.querySelector(".item").forEach(item => {
+    item.addEventListener("click", itemClick);
+  });
 
 //Functions
 function reset(){
