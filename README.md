@@ -3,7 +3,8 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/11904100/200204120-ecae2b3b-87ae-455d-bcc3-45e5826171b1.png" max-width="100%">
-</div>
+</div><br>
+
 
 <a target="_blank" href="https://jogodavelha-pro.netlify.app/" align="center" rel="nofollow">Link para o projeto</a>
 
