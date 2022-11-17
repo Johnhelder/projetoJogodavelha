@@ -14,7 +14,7 @@
 
 <h1>Aprendizados</h1>
 <p>Nesse sistema foi possível por em prática o uso dos conhecimentos que venho adquirindo em HTML, CSS e JavaScript.
-Criar funções como de click, de reset, vericar o jogo, mostrar inforações, verificar as sequencias que pode ter um jogador
+Criar funções como de click, de reset, verificar o jogo, mostrar inforações, verificar as sequências que pode ter um jogador
  verificar se o taboleiro tá preenchido..</p>
 
 <h1>Funcionalidades do sistema</h1>
