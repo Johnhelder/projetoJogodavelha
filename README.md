@@ -10,7 +10,7 @@
 
 <h2>Propósito de criar sistema jogo da velha</h2>
 
-<p>Objetivo de criar o sistema jogo da velha é melhorar meus conhecimentos nas tecnologias que estou focado HTML, CSS e JavaScript, esse projeto tem várias regras nas formas como funciona. O sistema informa quem venceu o jogo ou se deu empate, após um jogador ganhar o jogo é travado e o outro jogador não consegue mais jogar. Para começar uma nova partida só clicar no botão resetar que o sistema informa quem irá começar jogando, essa funcionalidade de escolher quem começa o jogo é aleatório. O jogo tem várias dinâmicas interessante como a troca de jogadores, varificar se o jogo terminou ou não, assim que você entrar na página o jogo já está rodando.</p>
+<p>Objetivo de criar o sistema jogo da velha é melhorar meus conhecimentos nas tecnologias que estou focado HTML, CSS e JavaScript, esse projeto tem várias regras nas formas como funciona. O sistema informa quem venceu o jogo ou se deu empate, após um jogador ganhar o jogo é travado e o outro jogador não consegue mais jogar. Para começar uma nova partida só clicar no botão resetar que o sistema informa quem irá começar jogando, essa funcionalidade de escolher quem começa o jogo é aleatório. O jogo tem várias dinâmicas interessante como a troca de jogadores, verificar se o jogo terminou ou não, assim que você entrar na página o jogo já está rodando.</p>
 
 <h1>Aprendizados</h1>
 <p>Nesse sistema foi possível por em prática o uso dos conhecimentos que venho adquirindo em HTML, CSS e JavaScript.
